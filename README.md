@@ -1,2 +1,9 @@
 # learn
-mega repo for all of my notes on math, compsci, and other goofy things 
+mega repo for all of my notes. might put on website later idk 
+
+# setup 
+using neovim + typst + skim (mac app)
+
+
+
+
